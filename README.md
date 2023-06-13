@@ -89,7 +89,7 @@ NVMe is functioning normally.
 
 #### Bluetooth
 
-Bluetooth functioning partially (Failed to connect on iPhone and AirPods)
+Bluetooth functioning partially (Successfully connected to AirPods but failed on iPhone)
 
 #### Trackpad-Trackpoint
 
@@ -97,7 +97,7 @@ Functioning normally.
 
 #### Wireless-Card
 
-Functioning normally.
+Functioning normally. Wi-Fi speed drops when connected to AirPods.
 
 #### Integrated-Camera
 
