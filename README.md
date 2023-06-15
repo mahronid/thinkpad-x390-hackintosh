@@ -114,7 +114,7 @@ Functioning normally.
 
 ## What-is-not-working
 
-- Airdrops and Handoff Fail to work properly.
+- Airdrops, AirPlay, and Continuity Camera fail to work properly, but Handoff works.
 
 ## Recommended-BIOS-Config
 
@@ -129,7 +129,7 @@ Functioning normally.
 
 ### Hibernation
 
-Hibernation is supported. No issue found after wake-up.
+Hibernation is supported. No serious issue found after wake-up.
 
 ## Support
 
