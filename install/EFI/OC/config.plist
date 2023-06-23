@@ -1433,23 +1433,23 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>FVF03XXXXXXXXX0A8</string>
+			<string>C02XXXXXXXXXXXXFB</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>2NXXXXX2</data>
+			<data>9PXXXXXG</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>MacBookPro15,4</string>
+			<string>MacBookPro16,3</string>
 			<key>SystemSerialNumber</key>
-			<string>FVFXXXXXXX0Y</string>
+			<string>C0XXXXXXXXXY</string>
 			<key>SystemUUID</key>
-			<string>AXXXXX95-7XX9-4XX7-9XX4-570XXXXXXXXCB</string>
+			<string>55XXXXE4-6XX3-4XX7-8XX0-92XXXXXXXX1D0</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
